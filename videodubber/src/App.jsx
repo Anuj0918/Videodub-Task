@@ -57,7 +57,7 @@ function App() {
           To use this, write your text, select parts of it and assign colors to them, then copy it using the button below, and send in a Discord message.
           <br />
           <br />
-          <p>Source Code is available on my <a style={{ color: "#5374f5", textDecoration: "underline" }} href='https://github.com/Adarsh-Kumar001/Discord-Colored-Text-VideoDubberSubmission'>Github</a></p>
+          <p>Source Code is available on my <a style={{ color: "#5374f5", textDecoration: "underline" }} href='https://github.com/Anuj0918/Videodub-Task'>Github</a></p>
         </Text>
       </div>
       <Card align='center' shadow="sm" padding="lg" radius="md" mt="lg" bg="dark.8" style={{ color: "white" }}>
